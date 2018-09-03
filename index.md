@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+link to personal site: https://hafiz-muhammad-anas.github.io/ 
 
-You can use the [editor on GitHub](https://github.com/CS-A-11/assignment1-Hafiz-Muhammad-Anas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+link to project site: https://github.com/CS-A-11/assignment1-Hafiz-Muhammad-Anas
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Assignment is pretty complex for me as i am using github for the first time. i enjoyed(:P) doing this for almost 4 to 5 hours, really.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+...............
+once a web designer drown and Q: Why did the web designer drown? A: She didn’t know if she should float:left or float:right.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CS-A-11/assignment1-Hafiz-Muhammad-Anas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also, she had too many anchors.
